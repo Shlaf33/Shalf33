@@ -7,7 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Android apps**
 
-- 📫 How to reach me **adrienheral@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
